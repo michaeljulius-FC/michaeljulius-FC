@@ -1,21 +1,21 @@
 # 🌪️ Michael Julius | Collaborative Fidelity
 
-I am building tools to bridge the gap between clinical IEP data and parental advocacy. 
-My mission is to ensure that "Fidelity" in education is measured by student outcomes, 
-not just legal paperwork.
+Specialist with 20 years of human system expertise and a brand new technical toolkit ready to build automated, intelligent solutions. 
+
 
 ### 🚀 Flagship Project: The Fidelity-Check
 A logic-driven auditor that cross-references IEP PDFs with the **Word Twister** dictionary 
 to identify service gaps, data disconnects, and alignment with student career goals.
+
+My mission is to ensure that "Fidelity" in education is measured by student outcomes, 
+not just legal paperwork.
 
 - **Status:** MVP (Live Performance Ready)
 - **Tech:** Python, Pandas, NLP Logic
 - **Goal:** Empowering 14.5 million parents in the US special education system.
 
 
-# 🌪️ Fidelity-Check: Collaborative Fidelity Auditor (MVP)
-
-> **"Bridging the gap between school-system compliance and student-centered outcomes."**
+**"Bridging the gap between school-system compliance and student-centered outcomes."**
 
 ## 📖 Project Vision
 In the current Special Education landscape, "Fidelity" is often treated as a legal checkbox. The **Fidelity-Check** reclaims that word for parents. It is a logic-driven auditor designed to ensure that the promises made in an Individualized Education Program (IEP) align with the student's actual classroom performance and future career goals.
