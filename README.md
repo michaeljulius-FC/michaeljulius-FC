@@ -10,10 +10,10 @@ My engineering philosophy centers on **"Collaborative Fidelity"**—building det
 
 I build production-first architectures from an independent development environment, specializing in high-fidelity backend systems:
 
-* **AI & Agent Orchestration:** Python, LangChain, LlamaIndex, Custom Logic Matrices, Advanced LLM Integration (Gemini API)
-* **Data Engineering & Streaming:** Apache Kafka, Apache Spark, Pandas, Data Ingestion Pipelines
+* **AI & Agent Orchestration:** Python, LangChain, LlamaIndex, Custom Logic Matrices, LLM Integration APIs (Gemini, OpenAI/GPT, Claude)
+* **Data Engineering & Streaming:** Apache Kafka, Apache Spark, Apache Hive, Pandas, Data Ingestion Pipelines
 * **Storage & Vector Search:** Vector Embeddings, Semantic Search Indexing, Relational Databases
-* **Backend & Runtimes:** Core Python, Jupyter Environments, Deno
+* **Backend & Runtimes:** Core Python, VS Code, Posit (RStudio/Connect), Jupyter Environments, Deno
 
 ---
 
@@ -45,12 +45,7 @@ Through my company, I have engineered a suite of specialized, autonomous agents 
 
 ## 📬 Let's Connect
 
-* **Company:** Collaborative-Fidelity, LLC  
-* **Availability:** Open to enterprise B2B consulting engagements, as well as remote **AI Agent Engineer**, **AI Solutions Architect**, or **Core R&D** positions.
-
-
-## 🔒 Data Fidelity & Privacy
-This project adheres to strict **Data Fidelity** principles. To ensure FERPA and HIPAA compliance, no PII (Personally Identifiable Information) or raw IEP documents are stored in this public repository. The engine is designed to run in secure, local environments.
-
----
-**Developed as part of the Effort for Collaborative Fidelity.**
+* **Company:** Collaborative-Fidelity, LLC
+* **Availability:** Open to enterprise B2B consulting engagements, contract partnerships, and full-time remote roles as an:
+  * **AI Agent Engineer / AI Solutions Architect / Core R&D Specialist**
+  * **Instructional Resource / Advocate / Facilitator** for AI adoption and implementation.
