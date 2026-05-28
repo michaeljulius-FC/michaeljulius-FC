@@ -36,12 +36,6 @@ The engine is built on a "Logic Bridge" architecture:
 
 
 
-## 📦 Getting Started
-To run the Fidelity Audit simulation:
-1. Clone this repository.
-2. Ensure dependencies are installed: `pip install -r requirements.txt`.
-3. Run the engine: `python src/engine.py`.
-
 ## 🔒 Data Fidelity & Privacy
 This project adheres to strict **Data Fidelity** principles. To ensure FERPA and HIPAA compliance, no PII (Personally Identifiable Information) or raw IEP documents are stored in this public repository. The engine is designed to run in secure, local environments.
 
