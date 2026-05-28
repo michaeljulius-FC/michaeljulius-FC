@@ -31,7 +31,7 @@ This MVP demonstrates three core capabilities of the Collaborative Fidelity fram
 ## 🛠️ Technical Architecture
 The engine is built on a "Logic Bridge" architecture:
 - **Ingestion:** Extracts raw data from IEP PDFs.
-- **Cross-Referencing:** Matches document strings against the `Word_Twister` dictionary.
+- **Cross-Referencing:** Matches document strings against the curated dictionary.
 - **Flagging:** Triggers "Red Flags" when data points contradict student needs.
 
 
